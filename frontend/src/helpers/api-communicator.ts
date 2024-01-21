@@ -23,6 +23,7 @@ export const signupUser = async (
 
 export const checkAuthStatus = async () => {
   const res = await axios.get("/user/auth-status");
+  console.log(res);
   if (res.status !== 200) {
     throw new Error("Unable to authenticate");
   }
