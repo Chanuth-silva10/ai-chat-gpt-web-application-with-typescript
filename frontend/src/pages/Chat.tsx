@@ -147,7 +147,7 @@ const Chat = () => {
             fontWeight: "600",
           }}
         >
-          Model - GPT 3.5 Turbo
+          Hello Everyone, I am Chanuth
         </Typography>
         <Box
           sx={{
