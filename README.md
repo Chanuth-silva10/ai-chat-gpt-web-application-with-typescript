@@ -18,5 +18,5 @@ BrainWave AI is a web-based AI chat application built using TypeScript and React
 
 ## Contact
 **Author:** Chanuth Silva  
-**Email:** [your-email@example.com](mailto:chanuth.silva2025@gmail.com)  
+**Email:** [chanuth.silva2025@gmail.com](mailto:chanuth.silva2025@gmail.com)  
 **GitHub:** [Chanuth-silva10](https://github.com/Chanuth-silva10)
