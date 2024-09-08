@@ -105,7 +105,7 @@ const Chat = () => {
             {auth?.user?.name.split(" ")[1][0]}
           </Avatar>
           <Typography sx={{ mx: "auto", fontFamily: "work sans" }}>
-            You are talking to a ChatBOT
+            You are typing to a BrainWave AI
           </Typography>
           <Typography sx={{ mx: "auto", fontFamily: "work sans", my: 4, p: 3 }}>
             You can ask some questions related to Knowledge, Business, Advices,
@@ -126,7 +126,7 @@ const Chat = () => {
               },
             }}
           >
-            Clear Conversation
+            Clear Chats
           </Button>
         </Box>
       </Box>
@@ -147,7 +147,7 @@ const Chat = () => {
             fontWeight: "600",
           }}
         >
-          Hello Everyone, I am Chanuth
+          Hello Everyone, I am BrainWave AI
         </Typography>
         <Box
           sx={{
