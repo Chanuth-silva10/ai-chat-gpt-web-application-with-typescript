@@ -224,10 +224,4 @@ The application will be available at:
 - 🐙 GitHub: [@Chanuth-silva10](https://github.com/Chanuth-silva10)
 - 🔗 LinkedIn: [Connect with me](https://linkedin.com/in/chanuth-silva)
 
-## 🙏 Acknowledgments
-
-- OpenAI for providing the GPT API
-- Material-UI team for the excellent component library
-- React and Node.js communities for the robust frameworks
-
 ---
